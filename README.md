@@ -30,7 +30,7 @@
 Reseach on Anything
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=nightowl )
 
 <br>
 
