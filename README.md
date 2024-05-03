@@ -13,6 +13,14 @@
 <span>
   <img src="https://img.shields.io/badge/nodedotjs-322C2B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
 </span>
-  
+<span>
+  <img src="https://img.shields.io/badge/html5-322C2B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/css3-322C2B?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Java-322C2B?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
 
 </div>
