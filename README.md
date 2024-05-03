@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<details>
+<!-- <details> -->
 <summary>About Me</summary>
 <br><br>
 <span>
