@@ -30,9 +30,9 @@
 Reseach on Anything
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=holi)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut&theme=holi)
 </div>
