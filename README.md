@@ -31,4 +31,8 @@ Reseach on Anything
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=radical)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=compact)
 </div>
