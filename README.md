@@ -24,6 +24,19 @@
 <span>
   <img src="https://img.shields.io/badge/Java-322C2B?style=for-the-badge&logo=Java&logoColor=C3002F"/>
 </span>
+<span>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
+
 </details>
 
 <br><br>
@@ -34,5 +47,6 @@ Reseach on Anything
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut&theme=apprentice)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=probationer070)](https://github.com/probationer070/github-readme-stats)
 
 </div>
