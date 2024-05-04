@@ -44,9 +44,9 @@
 ## OBJECTIVE
 Reseach on Anything
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=probationer070&theme=elegant&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=probationer070&theme=blueberry&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 
-<br><br>
+<br>
 
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
