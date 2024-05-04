@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF76CE,25:FDFFC2,50:94FFD8,100:A3D8FF&height=200&text=Welcome&desc=to%20my%20record&fontSize=40&descSize=20&section=header&fontColor=535185"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF76CE,25:FDFFC2,50:94FFD8,100:A3D8FF&height=200&text=Welcome&desc=to%20my%20record&fontSize=30&descSize=10&section=header&fontColor=535185"/>
 
 <details>
 <summary>Learn</summary>
