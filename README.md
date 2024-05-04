@@ -44,7 +44,7 @@
 ## OBJECTIVE
 Reseach on Anything
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=probationer070&theme=dark&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=probationer070&theme=elegant&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 
 <br><br>
 
