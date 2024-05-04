@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&section=header&text=capsule%20render&fontSize=90);
+  
 <details>
 <summary>About Me</summary>
 <br><br>
@@ -23,7 +23,7 @@
 <span>
   <img src="https://img.shields.io/badge/Java-322C2B?style=for-the-badge&logo=Java&logoColor=C3002F"/>
 </span>
-
+</details>
 
 <br><br>
 
