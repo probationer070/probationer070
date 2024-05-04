@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&text=Welcome&desc=to%20my%20record&fontSize=60&descSize=30&section=header&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&text=Welcome&desc=to%20my%20record&fontSize=60&descSize=30&section=header&fontColor=ffffff)
 
 <details>
 <summary>About Me</summary>
