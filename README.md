@@ -39,7 +39,7 @@
 
 </details>
 
-This site was built using [GitHub Pages](probationer070.github.io/).
+This site my [GitHub Pages](probationer070.github.io/).
 
 <br><br>
 
