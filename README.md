@@ -44,6 +44,10 @@
 ## OBJECTIVE
 Reseach on Anything
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=probationer070&theme=dark&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+<br><br>
+
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
