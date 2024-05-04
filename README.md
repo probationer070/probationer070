@@ -47,6 +47,6 @@ Reseach on Anything
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut&theme=apprentice)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=probationer070)](https://github.com/probationer070/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=probationer070)]
 
 </div>
