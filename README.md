@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF76CE,25:FDFFC2,50:94FFD8,100:A3D8FF&height=300&text=Welcome&desc=to%20my%20record&fontSize=60&descSize=30&section=header&fontColor=535185"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF76CE,25:FDFFC2,50:94FFD8,100:A3D8FF&height=200&text=Welcome&desc=to%20my%20record&fontSize=60&descSize=30&section=header&fontColor=535185"/>
 
 <details>
 <summary>Learn</summary>
@@ -40,13 +40,13 @@
 </details>
 
 This site my [GitHub Pages](probationer070.github.io/).
-<br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprobationer070&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
 <br><br>
 
 ## OBJECTIVE
 Reseach on Anything
+<br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprobationer070&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=probationer070&theme=blueberry&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 
