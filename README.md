@@ -25,16 +25,16 @@
   <img src="https://img.shields.io/badge/Java-322C2B?style=for-the-badge&logo=Java&logoColor=C3002F"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=C3002F"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=C3002F"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=C3002F"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=C3002F"/>
 </span>
 
 </details>
