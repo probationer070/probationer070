@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&text=Welcome&desc=to%20my%20record&fontSize=60&descSize=30&section=header&fontColor=535185)
 
 <details>
-<summary>About Me</summary>
+<summary>Learn</summary>
 <br><br>
 <span>
   <img src="https://img.shields.io/badge/Python-322C2B?style=for-the-badge&logo=python&logoColor=FDDE55"/>
