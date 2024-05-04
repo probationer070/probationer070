@@ -39,6 +39,8 @@
 
 </details>
 
+This site was built using [GitHub Pages](probationer070.github.io/).
+
 <br><br>
 
 ## OBJECTIVE
