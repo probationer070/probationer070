@@ -38,7 +38,7 @@
 </span>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut-vertical&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut-vertical&theme=blueberry&hide_border=true)
 </details>
 
 This site my [GitHub Pages](probationer070.github.io/).
