@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff"/>
 </span>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut-vertical)
 </details>
 
 This site my [GitHub Pages](probationer070.github.io/).
