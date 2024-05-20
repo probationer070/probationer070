@@ -50,7 +50,8 @@ Reseach on Anything
 <br><br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprobationer070&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=probationer070&theme=ocean-dark&hide_border=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=probationer070&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
 <br><br>
 
