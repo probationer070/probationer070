@@ -52,7 +52,7 @@ Reseach on Anything
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=probationer070&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=probationer070)](https://git.io/streak-stats)
 <br><br>
 
 <!-- My profile -->
