@@ -1,7 +1,5 @@
 # Hi
 
----
-
 I just want to learn about programming, I studies deeply in the fields of security, web applications, and AI.
 
 If you are someone who studies knowledge in the latest technical fields, security and AI are fields that are inseparable.
