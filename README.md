@@ -4,6 +4,10 @@ I just want to learn about programming, I studies deeply in the fields of securi
 
 If you are someone who studies knowledge in the latest technical fields, security and AI are fields that are inseparable.
 
+I've been studying AI lately, especially the field of LLMs. The process of visualizing and abstracting the thought processes of not only our brains but also these models is quite complex. There's a seemingly endless flood of information, from memory tools like `Mem0` and `Neuroca`, to fine-tuning tools such as `UnSloth` and `Axolotl`, and even applications for TTS (`Whisper`), STT (`GPT-SoVITS`), and LLMs (`Llama-based models`). I have several ideas for LLM applications related to the stock market, but for now, I'm working on a multi-turn role-playing conversational project.
+
+Because there's so much information, I'm planning to organize it soon and post it on my personal blog. I may even open-source a few things down the line. I always welcome sharing information, even if it's not highly specialized.
+
 <div align="center">
 
 <!-- Header -->
@@ -22,13 +26,13 @@ If you are someone who studies knowledge in the latest technical fields, securit
   <img src="https://img.shields.io/badge/node.js-322C2B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/html5-322C2B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/css3-322C2B?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</span>
-<span>
   <img src="https://img.shields.io/badge/Java-322C2B?style=for-the-badge&logo=Java&logoColor=C3002F"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=fff"/>
@@ -42,6 +46,24 @@ If you are someone who studies knowledge in the latest technical fields, securit
 <span>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff"/>
 </span>
+<span>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Axolotl-EC1C24?style=for-the-badge&logo=Axolotl&logoColor=fff"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/pytorch-322C2B?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/UnSloth-3CB371?style=for-the-badge&logo=no&logoColor=00FA9A"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/huggingface-322C2B?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+</span>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut-vertical&theme=blueberry&hide_border=true)
@@ -54,8 +76,7 @@ This site my [GitHub Pages](https://probationer070.github.io/).
 ## OBJECTIVE
 Reseach on Anything
 <br><br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprobationer070&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-
+[![welcome](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=welcome&size=small)](https://myhits.vercel.app)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=probationer070&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 <br><br>
