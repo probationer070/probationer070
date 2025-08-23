@@ -1,4 +1,4 @@
-# Hi
+# Profile
 
 I just want to learn about programming, I studies deeply in the fields of security, web applications, and AI.
 
@@ -13,9 +13,8 @@ Because there's so much information, I'm planning to organize it soon and post i
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF76CE,25:FDFFC2,50:94FFD8,100:A3D8FF&height=200&text=Welcome&desc=to%20my%20record&fontSize=30&descSize=10&section=header&fontColor=535185"/>
 
-<details>
-<summary>Learn</summary>
-<br><br>
+# Learn
+
 <span>
   <img src="https://img.shields.io/badge/Python-322C2B?style=for-the-badge&logo=python&logoColor=FDDE55"/>
 </span>
@@ -65,15 +64,11 @@ Because there's so much information, I'm planning to organize it soon and post i
   <img src="https://img.shields.io/badge/huggingface-322C2B?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 </span>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probationer070&layout=donut-vertical&theme=blueberry&hide_border=true)
-</details>
-
 This site my [GitHub Pages](https://probationer070.github.io/).
 
 <br><br>
 
-## OBJECTIVE
+# OBJECTIVE
 Reseach on Anything
 <br><br>
 [![welcome](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=welcome&size=small)](https://myhits.vercel.app)
@@ -87,4 +82,8 @@ Reseach on Anything
 <img src="https://github-readme-stats.vercel.app/api?username=probationer070&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=probationer070&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 -->
+
+
+## 
+
 </div>
