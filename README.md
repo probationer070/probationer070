@@ -37,13 +37,6 @@ focus:
   - DevSecOps
   - Realtime Orchestration
   - Latency Optimization
-
-mindset:
-  - playful but technical
-  - architecture-first thinking
-  - research-driven building
-  - systems-focused experimentation
-
 currently_building:
   - deployment-focused cloud projects
   - realtime AI orchestration systems
@@ -52,7 +45,7 @@ currently_building:
 
 ---
 
-# 🧠 Brand Story
+# Brand Story
 
 After the explosion of AI systems and the flood of synthetic information online, I became deeply interested in how infrastructure, security, and intelligent systems will shape the future.
 
@@ -82,7 +75,7 @@ Currently building toward:
 
 <td width="33%" valign="top">
 
-## 🟢 RIDI
+## RIDI
 
 <p align="center">
   <img src="./assets/ridi-banner.png" width="100%" />
@@ -104,7 +97,7 @@ Local AI orchestration system focused on realtime pipelines, memory systems, and
 
 <td width="33%" valign="top">
 
-## 📊 MoneyView
+## MoneyView
 
 <p align="center">
   <img src="./assets/moneyview-banner.png" width="100%" />
@@ -126,7 +119,7 @@ Automated macroeconomic visualization and structured analytical logging platform
 
 <td width="33%" valign="top">
 
-## 🌐 TestRAG
+## TestRAG
 
 <p align="center">
   <img src="./assets/testrag-banner.png" width="100%" />
@@ -171,7 +164,7 @@ Experimental RAG visualization project exploring interactive knowledge represent
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```txt
 → AWS Infrastructure Deployment
@@ -185,14 +178,7 @@ Experimental RAG visualization project exploring interactive knowledge represent
 
 ---
 
-# 🏅 Certifications
-
-- AWS Certified Solutions Architect – Associate (SAA-C03)
-- Microsoft Azure Fundamentals (AZ-900)
-
----
-
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
