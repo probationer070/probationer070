@@ -75,7 +75,8 @@ Currently building toward:
 
 <td width="33%" valign="top">
 
-## RIDI
+## [RIDI](https://github.com/probationer070/RIDI)
+
 
 <p align="center">
   <img src="./assets/ridi-banner.png" width="100%" />
@@ -85,19 +86,14 @@ Currently building toward:
 
 Local AI orchestration system focused on realtime pipelines, memory systems, and latency optimization.
 
----
-
 ### 🛠 Stack
 `Python` `Docker` `LLM` `Vector DB`
-
-### 🔗 Repository
-[Open Project](https://github.com/probationer070/RIDI)
 
 </td>
 
 <td width="33%" valign="top">
 
-## MoneyView
+## [MoneyView](https://github.com/probationer070/MoneyView)
 
 <p align="center">
   <img src="./assets/moneyview-banner.png" width="100%" />
@@ -106,20 +102,16 @@ Local AI orchestration system focused on realtime pipelines, memory systems, and
 ### Economic Analysis Platform
 
 Automated macroeconomic visualization and structured analytical logging platform.
-
----
+<b>
 
 ### 🛠 Stack
 `Python` `Analytics` `Visualization`
-
-### 🔗 Repository
-[Open Project](https://github.com/probationer070/MoneyView)
 
 </td>
 
 <td width="33%" valign="top">
 
-## TestRAG
+## [TestRAG](https://github.com/probationer070/TestRAG)
 
 <p align="center">
   <img src="./assets/testrag-banner.png" width="100%" />
@@ -129,13 +121,8 @@ Automated macroeconomic visualization and structured analytical logging platform
 
 Experimental RAG visualization project exploring interactive knowledge representation.
 
----
-
 ### 🛠 Stack
 `Python` `RAG` `Three.js`
-
-### 🔗 Repository
-[Open Project](https://github.com/probationer070/TestRAG)
 
 </td>
 
@@ -144,7 +131,7 @@ Experimental RAG visualization project exploring interactive knowledge represent
 
 ---
 
-# ☁️ Skill Stack
+# Skill Stack
 
 <div align="center">
 
