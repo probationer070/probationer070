@@ -79,7 +79,7 @@ Currently building toward:
 
 
 <p align="center">
-  <img src="./Ridi.png" width="100%" />
+  <img src="./img/Ridi.png" width="100%" />
 </p>
 
 ### Realtime AI Agent
@@ -96,7 +96,7 @@ Local AI orchestration system focused on realtime pipelines, memory systems, and
 ## [MoneyView](https://github.com/probationer070/MoneyView)
 
 <p align="center">
-  <img src="./moneyview.png" width="100%" />
+  <img src="./img/moneyview.png" width="100%" />
 </p>
 
 ### Economic Analysis Platform
@@ -114,7 +114,7 @@ Automated macroeconomic visualization and structured analytical logging platform
 ## [TestRAG](https://github.com/probationer070/TestRAG)
 
 <p align="center">
-  <img src="./TestRAG.png" width="100%" />
+  <img src="./img/TestRAG.png" width="100%" />
 </p>
 
 ### Interactive RAG Visualization
