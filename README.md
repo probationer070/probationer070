@@ -96,7 +96,7 @@ Local AI orchestration system focused on realtime pipelines, memory systems, and
 ## [MoneyView](https://github.com/probationer070/MoneyView)
 
 <p align="center">
-  <img src="./img/moneyvie.png" width="100%" />
+  <img src="./img/moneyview.png" width="100%" />
 </p>
 
 ### Economic Analysis Platform
