@@ -79,7 +79,7 @@ Currently building toward:
 
 
 <p align="center">
-  <img src="./img/Ridi.png" width="100%" />
+  <img src="./img/ridi.png" width="100%" />
 </p>
 
 ### Realtime AI Agent
@@ -114,7 +114,7 @@ Automated macroeconomic visualization and structured analytical logging platform
 ## [TestRAG](https://github.com/probationer070/TestRAG)
 
 <p align="center">
-  <img src="./img/TestRAG.png" width="100%" />
+  <img src="./img/testrag.png" width="100%" />
 </p>
 
 ### Interactive RAG Visualization
